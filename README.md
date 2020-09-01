@@ -1,2 +1,2 @@
 # sodapractice
-Soda Practice fos UXDI16
+Soda Practice for UXDI16
