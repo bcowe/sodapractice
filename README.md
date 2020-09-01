@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SODA FOR LIFE, SODA FOR DEATH
 ## You probably shouldn't drink all the sugar ¯\_(ツ)_/¯
 
@@ -9,4 +8,3 @@ But every now and then it's chill.
 =======
 # sodapractice
 Soda Practice for UXDI16
->>>>>>> 828e9b47bf3a9d650fdd619a834297aa22671a45
